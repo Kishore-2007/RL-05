@@ -341,7 +341,7 @@ Final Q-table :
 
 Estimated State-Value Function :
 
-<img width="767" height="515" alt="image" src="https://github.com/user-attachments/assets/dcf353a3-ee0b-4b46-93e7-eeea8b572719" />
+<img width="863" height="570" alt="image" src="https://github.com/user-attachments/assets/088ac439-090e-4675-a8a0-54ac1042ff0c" />
 
 ---
 
@@ -353,7 +353,7 @@ Final Q-table :
 
 Estimated State-Value Function :
 
-<img width="773" height="513" alt="image" src="https://github.com/user-attachments/assets/97819d80-8dc0-4c6f-bdf9-33be8c17ff31" />
+<img width="890" height="576" alt="image" src="https://github.com/user-attachments/assets/45e70391-d8c6-4a28-a8d7-2dd75eedefcd" />
 
 
 ---
