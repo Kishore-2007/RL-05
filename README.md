@@ -337,11 +337,11 @@ env.close()
 
 Final Q-table : 
 
-<img width="743" height="661" alt="image" src="https://github.com/user-attachments/assets/cc0d23de-beb6-4601-ab32-4b6ffc4a5dbc" />
+<img width="669" height="665" alt="image" src="https://github.com/user-attachments/assets/4c5392a5-b625-4bbd-9d17-65853c105e87" />
 
 Estimated State-Value Function :
 
-<img width="766" height="509" alt="image" src="https://github.com/user-attachments/assets/0907ea62-c08f-4614-9dd0-8919d84527f4" />
+<img width="767" height="515" alt="image" src="https://github.com/user-attachments/assets/dcf353a3-ee0b-4b46-93e7-eeea8b572719" />
 
 ---
 
